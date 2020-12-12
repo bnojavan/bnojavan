@@ -1,16 +1,27 @@
-### Hi there 👋
+# Behnaz Nojavanasghari
 
-<!--
-**bnojavan/bnojavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://www.hedgethink.com/wp-content/uploads/2020/07/10-Ways-Artificial-Intelligence-Can-Improve-Customer-Service_Blog-Banner.jpg" />
+<p align="center">Python | PyTorch  | PySpark | Tensorflow  | MATLAB
+	
 
-Here are some ideas to get you started:
+I am a machine learning scientist responsible for the design, implementation, and deployment of machine learning algorithms. I am experienced in applying machine learning and computer vision in various applications and industries and have led projects end to end. I hold a Ph.D. in Computer Science and I am committed to bring creative ideas to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Research Interests
+- Machine Learning
+	- Multimodal Machine Learning
+	- Deep Learning
+	- Interpretable Machine Learning
+	- Representation Learning
+	- Multi-task Learning
+	- Time Series Modeling
+- Computer Vision
+	- Face and Gesture Recognition 
+	- Semantic Segmentation
+	- Event Recognition
+- Affective Computing 
+	- Automatic Analysis and Recognition of Multimodal Social Signals
+	- Synthesis of Human Affect
+	- Analyzing and Predicting Affective Response to Multimedia
+	- Socially Intelligent Agents
