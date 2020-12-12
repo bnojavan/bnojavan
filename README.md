@@ -1,9 +1,9 @@
-# Behnaz Nojavanasghari
-
-<p align="center">
 <img src="https://www.hedgethink.com/wp-content/uploads/2020/07/10-Ways-Artificial-Intelligence-Can-Improve-Customer-Service_Blog-Banner.jpg" />
+
+## Behnaz Nojavanasghari
+
 <p align="center">Python | PyTorch  | PySpark | Tensorflow  | MATLAB
-	
+
 
 I am a machine learning scientist responsible for the design, implementation, and deployment of machine learning algorithms. I am experienced in applying machine learning and computer vision in various applications and industries and have led projects end to end. I hold a Ph.D. in Computer Science and I am committed to bring creative ideas to life.
 
