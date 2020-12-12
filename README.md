@@ -5,7 +5,7 @@
 
 I am a machine learning scientist responsible for the design, implementation, and deployment of machine learning algorithms. I am experienced in applying machine learning and computer vision in various applications and industries and have led projects end to end. I hold a Ph.D. in Computer Science and I am committed to bring creative ideas to life.
 
-I am passionate about understanding and computationally modeling human behavior and enabling computers with similar behaviors. These behaviors include a wide range from enabling a computer to recognize a user's smile to building a virtual human or a robot surgeon. I get excited to work on multidisciplinary projects and I am always up for collaborating with experts from different fields. Machine learning and computer vision has been two of the main tools that I have used to pursue my interests.  
+I am passionate about understanding and computationally modeling human behavior and enabling computers with similar behaviors. These behaviors include a wide range from enabling a computer to recognize a user's smile to building a virtual human or a robot surgeon. I get excited to work on multidisciplinary projects and I am always up for collaborating with experts from different fields. 
 
 Research Interests
 
