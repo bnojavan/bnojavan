@@ -1,7 +1,5 @@
 <img src="https://www.hedgethink.com/wp-content/uploads/2020/07/10-Ways-Artificial-Intelligence-Can-Improve-Customer-Service_Blog-Banner.jpg" />
 
-## Behnaz Nojavanasghari
-
 <p align="center">Python | PyTorch  | PySpark | Tensorflow  | MATLAB
 
 
