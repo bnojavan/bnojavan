@@ -3,7 +3,7 @@
 <p align="center">Python | PyTorch  | PySpark | Tensorflow  | MATLAB
 
 
-I am a machine learning scientist responsible for the design, implementation, and deployment of machine learning algorithms. I am experienced in applying machine learning and computer vision in various applications and industries and have led projects end to end. 
+Hi 👋! My name is Behnaz Nojavanasghari and I am a machine learning scientist responsible for the design, implementation, and deployment of machine learning algorithms. I am experienced in applying machine learning and computer vision in various applications and industries and have led projects end to end. 
 
 I am passionate about understanding and modeling human behavior and enabling computers with similar behaviors. These behaviors include a wide range from enabling a computer to recognize a user's smile to building a virtual human or a robot surgeon. I love to work on multidisciplinary projects and I am always up for collaborating with experts from different fields. I hold a Ph.D. in Computer Science and I am committed to bring creative ideas to life.
 
