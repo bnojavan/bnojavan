@@ -14,8 +14,8 @@ My name is Behnaz Nojavanasghari and I am a lead machine learning scientist. I a
 * Multi-task learning
 * Transfer learning
 * Interpretable machine learning
-* Multi-armed bandits
-* Collaborative filtering
+* Multi-armed bandits 
+* Recommendation Systems
 * Generative AI
 
 ### Computer Vision
